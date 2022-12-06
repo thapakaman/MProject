@@ -1,0 +1,39 @@
+
+
+.col-6{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.row{
+  height: 100px;
+  background: #fff;
+  border-bottom: 0.5px solid royalblue;
+}
+.col-3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.aj{
+  color: royalblue;
+}
+.abc{
+   display: flex;
+  justify-content: center;
+  align-items: center; 
+  height: 80vh; 
+  padding: 10px;
+  width: 30vh;
+  display: flex;
+}
+.container{
+    max-width: 700px;
+    width: 100%;
+    background-color: #fff;
+    padding: 25px 30px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+  }
